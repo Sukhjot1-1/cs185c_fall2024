@@ -8,4 +8,4 @@ The error message I got was ERROR: Missing or invalid OBCS configuration in data
 
 Issue Remedy
 
-I saw that the it was missing in thr run directory when I looked for it  and then I added it in which resolved the issue.
+I saw that the it was missing in the run directory when I looked for it  and then I added it in which resolved the issue.
